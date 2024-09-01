@@ -1,4 +1,0 @@
-NumberHits:0
-Timestamp: Mon Jul 29 11:56:23 UTC 2024
-VLNV: xilinx.com:ip:xsdbm:3.0
-SynthRuntime: 83
