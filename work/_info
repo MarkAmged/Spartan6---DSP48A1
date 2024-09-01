@@ -1,0 +1,113 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/MiniProject
+T_opt
+Z1 !s110 1722255683
+VHJ66zKkOB^]K<5lXG@`aQ2
+04 6 4 work DSP_tb fast 0
+=4-e070ea54d700-66a78943-2be-adc
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vDSP
+R1
+!i10b 1
+!s100 MLCW>?]M`>C4SifPUB6Kd3
+I?jkU:ILl`QLaZeDn`W;lo3
+R0
+w1722255611
+Z3 8DSP.v
+Z4 FDSP.v
+!i122 15
+Z5 L0 1 109
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z8 !s108 1722255683.000000
+Z9 !s107 DSP_tb.v|Reg_Mux.v|DSP.v|
+Z10 !s90 -reportprogress|300|DSP.v|Reg_Mux.v|DSP_tb.v|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@d@s@p
+vDSP48A1
+!s110 1722255578
+!i10b 1
+!s100 ze30:fiE@<mnPR`nD`_;V0
+I:oG7>mN5K:f0Q0iYl@caN2
+R0
+w1722252969
+R3
+R4
+!i122 10
+R5
+R6
+R7
+r1
+!s85 0
+31
+!s108 1722255578.000000
+R9
+R10
+!i113 0
+R11
+R2
+n@d@s@p48@a1
+vDSP_tb
+R1
+!i10b 1
+!s100 g9`4^eMG6Ye`a^OTj;01[3
+IC<]KEZ:`?`kQK8:OBC0]D3
+R0
+w1722255492
+8DSP_tb.v
+FDSP_tb.v
+!i122 15
+L0 1 127
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R2
+n@d@s@p_tb
+vreg_mux
+R1
+!i10b 1
+!s100 d>HI^1P`nTIUD<c8nS:JT0
+IlehGa4^zhY``1m;nl1G;=0
+R0
+w1722255616
+8Reg_Mux.v
+FReg_Mux.v
+!i122 15
+L0 1 40
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R2
